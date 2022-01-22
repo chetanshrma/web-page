@@ -1,8 +1,6 @@
 ---
 abstract: Potatoes have been a commodity of interest for some time due to nutritional and sensory reasons. Appearance, aroma, flavor and texture quality traits are gaining importance in breeding and processing programs, creating the need to develop a standard lexicon to provide common terminology to improve communication between breeders, producers, marketers, and researchers. A highly trained descriptive panel identified, defined, and referenced a lexicon with 64 attributes using a consensus based descriptive analysis method with 55 cultivars of potatoes. Samples were served mashed and air fried. Full lexicon includes 5 appearance, 17 aroma, 21 flavor, 13 texture, 5 mouthfeel, and 3 aftertaste attributes. The 55 cultivars used for lexicon development were also successfully profiled for the developed attributes. Cooked, potato, cardboard, umami, starchy, salty, metallic, bitter, and astringent attributes were mostly common among all samples. Attributes such as vegetable complex, beany, nutty, toasted, sweet potato, eggy, and cauliflower were unique to certain cultivars.
-author_notes:
-- Equal contribution
-- Equal contribution
+#author_notes:
 authors:
 - admin
 - Edgar Chambers IV
