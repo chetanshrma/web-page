@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: January, 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Aotearoa New Zealand
-    date_start: 'Dec 2019'
-    date_end: 'Dec 2021'
+    date_start: '2019-12-01'
+    date_end: '2021-12-30'
     description: |2-
         
         * Indigenous meaning of Provenance 
