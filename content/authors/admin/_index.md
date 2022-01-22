@@ -3,13 +3,13 @@ bio:
 education:
   courses:
   - course: Ph.D. in Human Nutrition
-    institution: Kansas State University
+    institution: Kansas State University, USA
     year: 2019
   - course: M.Sc. in Food Technology
-    institution: Punjab Agricultural University
+    institution: Punjab Agricultural University, India
     year: 2012
-  - course: B.Sc. in Food Science & Technology (Honors)
-    institution: Guru Nanak Dev University
+  - course: B.Sc. in Food Science & Technology (Hons.)
+    institution: Guru Nanak Dev University, India
     year: 2009
 email: ""
 highlight_name: false
@@ -44,6 +44,6 @@ superuser: true
 title: Chetan Sharma
 ---
 
-Chetan Sharma is a postdoc at the Lincoln University. His research interests include food and sensory science.
+I am a trained sensory scientist, graduated from Kansas State University, USA. My research interests are interdisciplinary in nature, ranging from cereal science  to sensory science. I extensively use statistics to help improve the signal-to-noise ratio and other novel techniques, such as facial expressions, eye-ball tracking and virtual reality to help validate the in-lab principles. My work benefits the local businesses to thrive and compete at a global level.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
