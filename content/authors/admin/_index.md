@@ -44,6 +44,6 @@ superuser: true
 title: Chetan Sharma
 ---
 
-I am a trained sensory scientist, graduated from Kansas State University, USA. My research interests are interdisciplinary in nature, ranging from cereal science  to sensory science. I extensively use statistics to help improve the signal-to-noise ratio and other novel techniques, such as facial expressions, eye-ball tracking and virtual reality to help validate the in-lab principles. My work benefits the local businesses to thrive and compete at a global level.
+I am a trained sensory scientist, graduated from Kansas State University, USA. My research interests are interdisciplinary in nature, ranging from cereal science  to sensory science. I extensively use statistics to help improve the signal-to-noise ratio. My work benefits the local businesses to thrive and compete at a global level.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
