@@ -8,7 +8,7 @@ education:
   - course: M.Sc. in Food Technology
     institution: Punjab Agricultural University
     year: 2012
-  - course: B.Sc. in Food Science and Technology (Honors - 4 year)
+  - course: B.Sc. in Food Science & Technology (Honors)
     institution: Guru Nanak Dev University
     year: 2009
 email: ""
