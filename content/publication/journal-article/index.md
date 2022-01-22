@@ -22,7 +22,7 @@ publication_types:
 - "2"
 publishDate: "2020-05-01T00:00:00Z"
 #slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
 title: Development of a lexicon to describe the sensory characteristics of a wide variety of potato cultivars
