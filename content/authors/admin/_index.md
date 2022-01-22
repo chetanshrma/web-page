@@ -14,9 +14,9 @@ education:
 email: ""
 highlight_name: false
 interests:
+- Food
 - Sensory
 - Consumer behavior
-- Food
 organization:
 - name: Lincoln University
   url: https://researchers.lincoln.ac.nz/chetan.sharma/about
@@ -45,7 +45,5 @@ title: Chetan Sharma
 ---
 
 Chetan Sharma is a postdoc at the Lincoln University. His research interests include food and sensory science.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
