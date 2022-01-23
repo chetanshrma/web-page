@@ -24,14 +24,17 @@ publishDate: "2020-05-01T00:00:00Z"
 #slides: example
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
-- Source Themes
+- Potato
+- Lexicon
+- Sensory
+- Consensus
 title: Development of a lexicon to describe the sensory characteristics of a wide variety of potato cultivars
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://osf.io/qd8u2/
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
-url_source: ""
+#url_source: ""
 #url_video: ""
 ---
